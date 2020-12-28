@@ -4,6 +4,8 @@ This is one of the very interesting applications of Deep Learning
 <br>
 What it does is, it takes an image as an input and tries to predict an appropriate caption for that image !!
 
+For Example : for this input image, the model predicted the following caption
+
 ![download](https://user-images.githubusercontent.com/54953734/103244789-1a425e80-4984-11eb-8b2b-af14cbc6c1cf.png)
 
 # Steps
